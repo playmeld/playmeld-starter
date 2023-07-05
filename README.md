@@ -55,6 +55,8 @@ $ git remote rename origin seed
 # git remote add origin <your-git-origin>
 ```
 
+- Make sure to update the path to `UnityYAMLMerge` in `.gitconfig`
+
 - In Unity Hub Go to "Projects" section
 - Click on an arrow next to "Open" button and choose "Add project from disk"
 

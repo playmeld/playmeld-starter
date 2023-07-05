@@ -39,9 +39,6 @@ If you are not familiar with git, use this option.
 - In Unity Hub Go to "Projects" section
 - Click on an arrow next to "Open" button and choose "Add project from disk"
 
-As a final step in text editor open `ProjectSettings.asset` and update `productName`, `metroPackageName` and `metroApplicationDescription`
-
-
 ### 2. Clone repository
 
 If you are familiar with git, use this option.
@@ -56,11 +53,10 @@ $ git remote rename origin seed
 ```
 
 - Make sure to update the path to `UnityYAMLMerge` in `.gitconfig`
-
+- Copy pre-commit file into .git/hooks folder from [unity-git-setup](https://github.com/playmeld/unity-git-setup#5-setup-pre-commit-hook) repository
+- [Optional] in text editor open `ProjectSettings.asset` and update `productName`, `metroPackageName` and `metroApplicationDescription`
 - In Unity Hub Go to "Projects" section
 - Click on an arrow next to "Open" button and choose "Add project from disk"
-
-As a final step in text editor open `ProjectSettings.asset` and update `productName`, `metroPackageName` and `metroApplicationDescription`
 
 ## How to update
 

@@ -44,7 +44,7 @@ If you are not familiar with git, use this option.
 If you are familiar with git, use this option.
 
 - `$ git clone https://github.com/playmeld/playmeld-starter.git example`
-- `git lfs install`
+- Install [Git LFS]((https://git-lfs.com/)) if you don't have it
 - Update git remote
 
 ```

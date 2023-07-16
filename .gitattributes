@@ -32,7 +32,6 @@ Rewired_Core.XML filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.ai filter=lfs diff=lfs merge=lfs -text
-*_Slot.asset filter=lfs diff=lfs merge=lfs -text
 
 ## UMA ##
 Assets/UMA/**/*.asset filter=lfs diff=lfs merge=lfs -text
